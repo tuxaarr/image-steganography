@@ -1,0 +1,1 @@
+Make sure you upload the "convertimage" file into your folder in which you use this code, in order for the code to work. Also make sure to rename your PNG image to "ID" in order for the conversion to take place. Recommended compressed PNG image for faster execution. 
